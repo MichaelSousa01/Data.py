@@ -4,7 +4,7 @@ Este repositório reúne diversos projetos desenvolvidos em Python, com foco em 
 
 🛠️ Tecnologias Utilizadas
 
-    Python 3.x
+    Python 3.18
 
     pandas, numpy, matplotlib (varia conforme o projeto)
 
