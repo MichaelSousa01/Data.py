@@ -1,56 +1,27 @@
-📊 ETL - Pesquisa Nacional por Amostra de Domicílios
+🐍 Projetos em Python
 
-Este projeto realiza um processo simples de ETL (Extração, Transformação e Carga) em dados da Pesquisa Nacional por Amostra de Domicílios (PNAD), utilizando Python e bibliotecas populares como pandas, numpy e matplotlib.
-🚀 Objetivo
-
-Transformar dados brutos da PNAD em um formato mais legível e interpretável, substituindo códigos por valores descritivos (como unidades da federação, sexo, cor/raça e anos de estudo), além de realizar análises iniciais sobre os dados.
-📂 Estrutura
-
-    etl_pesquisanacional.py: Script principal com as etapas de ETL.
-
-    Fonte dos dados: CSV localizado no Google Drive, extraído via Google Colab.
+Este repositório reúne diversos projetos desenvolvidos em Python, com foco em ciência de dados, ETL, análise exploratória, entre outros tópicos. Cada projeto tem como objetivo aprofundar o conhecimento prático da linguagem e suas bibliotecas mais utilizadas.
 
 🛠️ Tecnologias Utilizadas
 
-    Python 3
+    Python 3.x
 
-    Google Colab
+    pandas, numpy, matplotlib (varia conforme o projeto)
 
-    pandas
+    Google Colab / Jupyter Notebook
 
-    numpy
+    Git e GitHub
 
-    matplotlib
+🎯 Objetivo do Repositório
 
-🔄 Etapas do Processo
+Este repositório tem como finalidade:
 
-    Extração:
+    Compartilhar aprendizados práticos em Python;
 
-        Leitura dos dados em CSV a partir do Google Drive.
+    Documentar a evolução em análise de dados;
 
-    Transformação:
+    Servir de portfólio técnico.
 
-        Identificação e exibição de valores nulos.
+🤝 Contribuições
 
-        Substituição de códigos numéricos por categorias legíveis:
-
-            UF (estados) segundo tabela do IBGE.
-
-            Sexo, cor/raça e anos de estudo.
-
-    Carga:
-
-        O dataframe transformado é mantido na memória para futuras análises ou exportação.
-
-📈 Resultados Esperados
-
-Após a execução do script, o dataset estará com colunas mais compreensíveis, prontas para análises estatísticas, geração de gráficos ou aplicação de modelos de dados.
-📌 Observações
-
-    O arquivo foi originalmente desenvolvido em Jupyter Notebook no Google Colab.
-
-    Algumas células comentadas com instruções educacionais foram mantidas para fins didáticos.
-
-🤝 Contribuição
-
-Sinta-se à vontade para abrir issues, sugerir melhorias ou enviar pull requests.
+Contribuições são bem-vindas! Fique à vontade para abrir uma issue ou fazer um pull request com sugestões de melhorias ou novos projetos.
